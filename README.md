@@ -83,11 +83,11 @@ Set attributes AdaptiveFrameLayout programatically
 ## Custom Attributes
 | Command        | Description           
 | ------------- |:-------------:|
-| `klvs_progressColor`     | Set a progress color |
-| `klvs_backgroundColor`      | Set a background color      |
-| `klvs_cornerRadius` | Sets to rounded edges      |
-| `klvs_progress` | Sets initial progress      |
-| `klvs_steep` | Sets the increment or decrement margin as you slide      |
-| `klvs_max` | Sets the maximum value      |
-| `klvs_enabled` | Defines whether the will be adjustable or not      |
-| `klvs_touchEnabled` | Defines if the container has to use all available width      |
+| `klvs_progressColor`     | Define a progress color |
+| `klvs_backgroundColor`      | Define a background color      |
+| `klvs_cornerRadius` | Define to rounded edges      |
+| `klvs_progress` | Define initial progress      |
+| `klvs_steep` | Define the increment or decrement margin as you slide      |
+| `klvs_max` | Define the maximum value      |
+| `klvs_enabled` | Define whether the will be adjustable or not      |
+| `klvs_touchEnabled` | Define if the container has to use all available width      |
