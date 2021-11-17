@@ -1,4 +1,4 @@
-# VerticalSeekbar  ![GitHub](https://img.shields.io/github/license/Kleberf65/VerticalSeekbar.svg) [![Release](https://jitpack.io/v/Kleberf65/VerticalSeekbar.svg)](https://jitpack.io/#Kleberf65/VerticalSeekbar/1.0.0) [![Svg](https://jitpack.io/v/Kleberf65/VerticalSeekbar/month.svg)](https://jitpack.io/v/Kleberf65/VerticalSeekbar) 
+# VerticalSeekbar  [![GitHub](https://img.shields.io/github/license/Kleberf65/VerticalSeekbar.svg)](https://github.com/Kleberf65/VerticalSeekbar/blob/master/LICENSE.md) [![Release](https://jitpack.io/v/Kleberf65/VerticalSeekbar.svg)](https://jitpack.io/#Kleberf65/VerticalSeekbar/1.0.0) [![Svg](https://jitpack.io/v/Kleberf65/VerticalSeekbar/month.svg)](https://jitpack.io/v/Kleberf65/VerticalSeekbar) 
 Simple library to use a fully customizable vertical seekbar
 ## Screenshot
 <img src="https://user-images.githubusercontent.com/94382310/142257368-7cdd702a-b804-4eef-9d46-5590a10050b7.gif" width="224px" height="500px">
