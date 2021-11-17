@@ -1,5 +1,7 @@
 # VerticalSeekbar  ![GitHub](https://img.shields.io/github/license/Kleberf65/VerticalSeekbar.svg) [![Release](https://jitpack.io/v/Kleberf65/VerticalSeekbar.svg)](https://jitpack.io/#Kleberf65/VerticalSeekbar/1.0.0) [![Svg](https://jitpack.io/v/Kleberf65/VerticalSeekbar/month.svg)](https://jitpack.io/v/Kleberf65/VerticalSeekbar) 
 Simple library to use a fully customizable vertical seekbar
+## Screenshot
+![image](https://user-images.githubusercontent.com/94382310/142255611-55a94081-774e-40c9-b510-0a2e25b7c30b.png)
 ## Installing
 Step 1. Add the JitPack repository to your build file, Add it in your root `build.gradle` at the end of repositories or `settings.gradle` for new features Android Studio:
 
